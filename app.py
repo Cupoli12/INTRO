@@ -6,4 +6,4 @@ st.write("Diferente tipo de letra")
 
 
 image = Image.open("gatopan.jpg")
-st.image(image, caption="gatopan")
+st.image(image, caption = "gatopan")
