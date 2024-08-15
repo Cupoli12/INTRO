@@ -4,4 +4,4 @@ st.header("Hola, como va todo")
 st.write("Diferente tipo de letra")
 
 from PIL import Image
-image = Image.open("")
+image = Image.open("Fondo_creativity.png")
