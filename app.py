@@ -5,5 +5,5 @@ st.header("Hola, como va todo")
 st.write("Diferente tipo de letra")
 
 
-image = Image.open("Fondo_creativity.png")
-st.image(image, caption="Creativity")
+image = Image.open("gatopan.jpg")
+st.image(image, caption="gatopan")
