@@ -5,3 +5,4 @@ st.write("Diferente tipo de letra")
 
 from PIL import Image
 image = Image.open("Fondo_creativity.png")
+st.image(image, caption="Creativity")
